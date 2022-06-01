@@ -7,5 +7,5 @@ A Heap is a special Tree-based data structure in which the tree is a complete bi
 3. Priority Queue
 
 # Practice Question for Heap:
-1. kth largest element in the array: https://github.com/jangoo505/LeetCode/blob/Heap/Solutions/Kth_Largest_Element_in_an_Array.java
-2. Top_K_Frequent_Elements: 
+1. kth largest element in the array
+2. Top_K_Frequent_Elements
