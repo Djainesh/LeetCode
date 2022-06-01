@@ -1,10 +1,6 @@
-# LeetCode
-Repository contains solution for the LeetCode problems of all level. Moreover, it contains separate folder for specific topic.
-# Heap
-Branch Link: https://github.com/jangoo505/LeetCode/tree/Heap
-# Arrays
-Branch Link:
+## Searching and Sorting
 
-# Linked List
-Branch Link: 
-
+## Question of Practice:
+1. Bubble Sort
+2. Selection Sort
+3. Binary Search
