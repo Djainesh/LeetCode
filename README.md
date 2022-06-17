@@ -1,13 +1,4 @@
-# LeetCode
-Repository contains solution for the LeetCode problems of all level. Moreover, it contains separate folder for specific topic.
-# Heap
-Branch Link: https://github.com/jangoo505/LeetCode/tree/Heap
-# Arrays
-Branch Link:
+# Tree Question
 
-# Linked List
-Branch Link: 
-
-# Searching and Sorting
-Branch Link: https://github.com/jangoo505/LeetCode/tree/SearchingandSorting
-
+1. PostOrder.
+2. PreOrder.
